@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Ethan-CKban
-- 👀 I’m interested in Big Data, AI, Machine learning and Data Analysis.
+- 👀 I’m interested in Big Data, AI, Machine Learning and Data Analysis.
 - 🌱 I’m currently learning Analysis and Software Development, English, to become a great Developer.  
 - 💞️ I’m looking to collaborate with the best being the best.
